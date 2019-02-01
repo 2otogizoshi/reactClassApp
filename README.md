@@ -1,2 +1,0 @@
-# reactClassApp
-Created with CodeSandbox
